@@ -26,5 +26,5 @@ Elimina el registro manual en papel o Excel de materiales en almacén
 industrial, reduciendo errores y tiempo de búsqueda de paquetes.
 
 ## 📸 Vista previa
+![Historial de Almacén](Pantallaso_Programa_de_almacen.jpeg)
 
-(Próximamente)
